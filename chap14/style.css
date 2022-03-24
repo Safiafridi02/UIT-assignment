@@ -1,0 +1,38 @@
+/* h3 {
+    list-style-type:" * ";
+} */
+
+
+
+li {
+
+    list-style-type:" * ";
+
+}
+
+tr {
+    background-color: rgb(175, 175, 216);
+}
+
+.P {
+    background-color: rgb(152, 152, 207);
+}
+
+fieldset {
+    width: 500px;
+}
+
+button {
+
+    background-color: green;
+    margin-left: 452px;
+    margin-top: 15px;
+}
+
+#box1 {
+    margin-left: 11px;
+}
+
+#country {
+    margin-left: 30px;
+}
